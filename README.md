@@ -1,2 +1,3 @@
-The air quality project focuses on Spain for the years 2012 to 2022.
-We can see the relationship of the data with the Spanish population, the hospitalizations related to respiratory diseases and the different harmful particles in the air quality.
+This project analyzes the impact of air quality on respiratory diseases in Spain.
+Using data spanning 10 years (2012-2021) from 50 provinces, the study integrates information on air pollution, hospitalizations, and demographics. It employs tools like Python, Tableau, and Streamlit for data processing, visualization, and predictive modeling. 
+The research highlights correlations between fine particle concentrations (e.g., PM2.5) and hospital admission rates, identifies vulnerable populations, and proposes solutions to inform public policies aimed at reducing pollution and improving health outcomes.
